@@ -189,7 +189,7 @@
         /* initialize the contact page map on the "map" div with a given center and zoom*/
         if($('#map').length !== 0){
             var map = L.map('map', {
-                center: [-6.185033, 106.798862],
+                center: [32.59308536536419, 74.07560339999407],
                 zoom: 18,
                 zoomControl: false,
                 scrollWheelZoom: true,

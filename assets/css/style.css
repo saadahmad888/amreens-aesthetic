@@ -1609,3 +1609,19 @@ img.mfp-img {
     bottom: 0;
 }
 
+
+
+
+
+/* Updated Code */
+#service-sec .service-item{
+    padding-top: 0;
+    padding-bottom: 0;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#service-sec .service-item h4{
+    margin-bottom: 0;
+}
